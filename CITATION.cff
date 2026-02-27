@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "SYNTRIAD: The Metapattern"
+message: "If you use SYNTRIAD in your research, please cite it using these metadata."
+type: software
+authors:
+  - family-names: Havenaar
+    given-names: Remco
+    affiliation: SYNTRIAD Research
+repository-code: "https://github.com/SYNTRIAD/genesis"
+url: "https://github.com/SYNTRIAD/genesis"
+license: CC-BY-NC-SA-4.0
+version: "1.0.0"
+date-released: "2025-12-01"
+keywords:
+  - semantic thermodynamics
+  - transformation pattern
+  - production-validation loop
+  - metapattern
+  - cognitive architecture
+  - AI-assisted reasoning
+preferred-citation:
+  type: article
+  title: "Semantic Thermodynamics: A Formal Model for Coherence Dynamics under Drift"
+  authors:
+    - family-names: Havenaar
+      given-names: Remco
+      affiliation: SYNTRIAD Research
+  year: 2025
+  doi: "10.5281/zenodo.17618208"
+references:
+  - type: article
+    title: "Self-Validating Systems: Conceptual Foundations"
+    authors:
+      - family-names: Havenaar
+        given-names: Remco
+    year: 2025
+    doi: "10.5281/zenodo.17616682"
+  - type: article
+    title: "Empirical Convergence in Semantic Transformation"
+    authors:
+      - family-names: Havenaar
+        given-names: Remco
+    year: 2025
+    doi: "10.5281/zenodo.17618998"
