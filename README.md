@@ -1,11 +1,26 @@
-# SYNTRIAD — The Metapattern
+<div align="center">
 
-![Convergence Pattern](assets/convergence-pattern.png)
+# SYNTRIAD
 
-This repository offers a pattern, not a promise.
+### The Metapattern
 
-It can be applied, forked, adapted, or discarded.
-Its value emerges only in use.
+*A minimal, fractal transformation pattern grounded in formal theory.*
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17618208-blue.svg)](https://zenodo.org/records/17618208)
+[![Papers](https://img.shields.io/badge/Papers-3%20published-green.svg)](#scientific-foundation)
+[![Companion](https://img.shields.io/badge/Companion-Digit--Dynamics-orange.svg)](https://github.com/SYNTRIAD/digit-dynamics)
+
+<br>
+
+<img src="assets/convergence-pattern.png" alt="Convergence Pattern" width="720">
+
+<br>
+
+*This repository offers a pattern, not a promise.*
+*It can be applied, forked, adapted, or discarded. Its value emerges only in use.*
+
+</div>
 
 ---
 
@@ -13,14 +28,14 @@ Its value emerges only in use.
 
 SYNTRIAD is grounded in formal theory and empirical validation:
 
-| Paper | Focus | Link |
-|-------|-------|------|
-| Self-Validating Systems | Conceptual framework | [Zenodo](https://zenodo.org/records/17616682) |
-| Semantic Thermodynamics | Formal model | [Zenodo](https://zenodo.org/records/17618208) |
-| Empirical Convergence | Validation | [Zenodo](https://zenodo.org/records/17618998) |
+| Paper | Pillar | DOI |
+|-------|--------|-----|
+| Self-Validating Systems | Conceptual | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17616682-blue.svg)](https://zenodo.org/records/17616682) |
+| Semantic Thermodynamics | Theoretical | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17618208-blue.svg)](https://zenodo.org/records/17618208) |
+| Empirical Convergence | Empirical | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17618998-blue.svg)](https://zenodo.org/records/17618998) |
 
-See `theory/` for the mathematical foundations.
-See `evidence/` for empirical validation.
+See [`theory/`](theory/) for the mathematical foundations.
+See [`evidence/`](evidence/) for empirical validation.
 
 ---
 
@@ -106,7 +121,7 @@ Recursion stops when validation becomes trivial.
 
 ---
 
-## What this enables
+## What This Enables
 
 Used consistently, the pattern helps to:
 
@@ -121,28 +136,42 @@ If not, it can be ignored without consequence.
 
 ---
 
-## Start here
+## Start Here
 
-- Read the canon: `pattern/metapattern.md`
-- Understand the math: `theory/hamiltonian.md`
-- See the evidence: `evidence/publications.md`
-- Copy the template: `pattern/ups.md`
-- Inspect the selection loop: `pattern/vpp.md`
-- See it applied: `examples/`
+| | Resource | Description |
+|-|----------|-------------|
+| 📖 | [`pattern/metapattern.md`](pattern/metapattern.md) | The canon — the invariant structure |
+| 🧮 | [`theory/hamiltonian.md`](theory/hamiltonian.md) | The math — semantic Hamiltonian |
+| 🔬 | [`evidence/publications.md`](evidence/publications.md) | The proof — three published papers |
+| 📐 | [`pattern/ups.md`](pattern/ups.md) | The template — copy and use |
+| 🔄 | [`pattern/vpp.md`](pattern/vpp.md) | The selection loop |
+| 💡 | [`examples/`](examples/) | Applied phenotypes |
 
 ---
 
-## How to read this repository
+## Repository Structure
 
-- **pattern/** contains the invariant structure (the metapattern)
-- **theory/** contains the mathematical foundations (Hamiltonian, axioms)
-- **evidence/** contains scientific validation (publications, case studies)
-- **essays/** contains explorations of universal structural principles
-- **examples/** show different phenotypes built from the same structure
-- **contributing** is about extending usage, not redefining the pattern
+```
+genesis/
+├── pattern/          The invariant structure (metapattern)
+├── theory/           Mathematical foundations (Hamiltonian, axioms)
+├── evidence/         Scientific validation (publications, case studies)
+├── essays/           Explorations of universal structural principles
+├── examples/         Different phenotypes built from the same structure
+├── assets/           Visualizations
+└── CONTRIBUTING.md   Extending usage, not redefining the pattern
+```
 
 The structure is intentionally small.
 Depth emerges through application, not explanation.
+
+---
+
+## Companion Repository
+
+The SYNTRIAD pattern was applied to autonomous mathematical discovery — resulting in 9 proven theorems and 5 infinite families of digit-operation fixed points.
+
+**[SYNTRIAD/digit-dynamics](https://github.com/SYNTRIAD/digit-dynamics)** — From brute-force to reasoning in three days.
 
 ---
 
@@ -161,12 +190,17 @@ If you use SYNTRIAD in your research, please cite:
 
 ---
 
-## Closing note
+<div align="center">
 
-This repository does not ask for belief.
+*This repository does not ask for belief.*
 
-It exposes a repeatable transformation pattern and leaves evaluation to use.
+*It exposes a repeatable transformation pattern and leaves evaluation to use.*
 
-Build with it. Fork it. Break it.
-Or leave it untouched.
+**Build with it. Fork it. Break it. Or leave it untouched.**
+
+---
+
+*SYNTRIAD Research — 2025–2026*
+
+</div>
 
