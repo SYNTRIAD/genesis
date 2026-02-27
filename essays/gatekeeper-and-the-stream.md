@@ -97,7 +97,7 @@ These structural echoes illuminate why the P,V-loop works:
 | **Recovery through Reconfiguration** | V++ adapts and evolves; it doesn't reset |
 | **Trade-off under Stress** | The energy function H(s) makes costs visible |
 
-The P,V-loop is not a metaphor borrowed from biology or thermodynamics. It is the same mechanism, operating in the semantic domain.
+The P,V-loop is not a metaphor borrowed from biology or thermodynamics. It exhibits the same structural pattern — variation, selection, and stabilization — operating in the semantic domain. Whether this constitutes a deep identity or a useful analogy remains an open question.
 
 ---
 

@@ -66,19 +66,25 @@ SYNTRIAD uses a simple oscillation as its engine:
 - **P (Potential / Expansion):** generate options, interpretations, variants
 - **V (Validation / Contraction):** select, test, constrain, discard
 
+Each iteration produces, validates, and adjusts until stability criteria are met:
+
+```
+sₙ₊₁ = V(P(sₙ))
+```
+
+Metrics include inconsistency detection, constraint violation scoring, uncertainty estimation, and coverage measurement.
+
 This expand–contract rhythm closes learning loops and prevents drift.
 
 ---
 
 ## Why It Works
 
-The P,V-loop is not a workflow—it's a **cognitive primitive**.
-
-Like AND/OR/NOT in logic, or nucleotides in DNA, the Production-Validation oscillation is the smallest stable unit from which any intelligent process can be constructed.
+The P,V-loop is a candidate **cognitive primitive** — the hypothesis that Production-Validation oscillation is a minimal stable unit from which intelligent processes can be constructed.
 
 It works because:
-1. **Oscillation creates convergence** — like a damped harmonic system
-2. **Validation opposes drift** — like Lenz's Law in electromagnetism
+1. **Variation, feedback, and stabilization** — oscillation creates convergence, like a damped control system
+2. **Validation opposes drift** — each V-step acts as a corrective force against accumulated error
 3. **The structure is fractal** — same pattern at micro, meso, macro scales
 
 The pattern doesn't guarantee intelligence. It creates the conditions under which intelligence can emerge.

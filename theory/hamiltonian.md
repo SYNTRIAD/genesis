@@ -77,7 +77,7 @@ Where:
 
 ---
 
-## The Unified Metric: CCR
+## The Unified Metric: CCR [HYPOTHESIZED]
 
 The **Coherence-to-Complexity Ratio** unifies coherence and compression:
 
@@ -93,7 +93,7 @@ Where K is Kolmogorov complexity (or its computable proxy K').
 x* = argmax_x CCR(x)
 ```
 
-Intelligence is the search for the **Minimum Viable Model**—maximum coherence with minimum complexity.
+Intelligence, in this model, is the search for the **Minimum Viable Model**—maximum coherence with minimum complexity. This metric has not been empirically validated; it is a theoretical construct.
 
 ---
 
@@ -105,7 +105,7 @@ In the P,V-loop:
 2. **V (Validation):** Select candidates that actually lower H(s)
 3. **Iterate:** Until H(s) stabilizes below threshold
 
-The Hamiltonian provides an **objective measure** of progress—not subjective judgment, but measurable energy reduction.
+The Hamiltonian provides a **quantitative proxy** for progress—measurable energy reduction rather than subjective judgment. Whether H(s) fully captures semantic quality remains an open question requiring external validation (e.g., correlation with human ratings).
 
 ---
 

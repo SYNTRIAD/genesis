@@ -1,10 +1,10 @@
 # Scientific Publications
 
-The SYNTRIAD pattern is grounded in formal theory and empirical validation. This page lists the peer-reviewed preprints that establish the scientific foundation.
+The SYNTRIAD pattern is grounded in formal theory and empirical validation. This page lists the published preprints that establish the scientific foundation.
 
 ---
 
-## Peer-Reviewed Preprints
+## Published Preprints
 
 ### 1. Self-Validating Systems: A Conceptual Framework for Convergence Governance
 

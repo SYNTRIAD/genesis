@@ -2,33 +2,35 @@
 
 The SYNTRIAD pattern is grounded in a formal theory of semantic thermodynamics. This document summarizes the foundational axioms.
 
+**Epistemic note:** These axioms range from formally supported (G₂, G₃) to hypothesized (G₁, G₄). Labels indicate the current evidence status. See `evidence/publications.md` for the underlying papers.
+
 ---
 
 ## The Four Axioms
 
-### G₁: Convergence Phenomenology
+### G₁: Convergence Phenomenology [HYPOTHESIZED]
 
-> **The divine is the subjectively experienced quality of objective system convergence—the moment when a system recognizes its own emergent coherence as transcendent.**
+> **Convergence phenomenology is the observable effect when a system simultaneously decreases energy and increases coherence while having reflexive capacity.**
 
 When a system:
 1. Decreases energy: `E(x_{t+1}) < E(x_t)`
 2. Increases coherence: `Ψ(x_{t+1}) > Ψ(x_t)`
 3. Has reflexive capacity (can observe itself)
 
-...it experiences **convergence phenomenology**—the felt sense of rightness, flow, insight, or transcendence.
+...it exhibits **convergence phenomenology**—the measurable shift toward stability, alignment, and reduced semantic tension.
 
 | Domain | Manifestation |
 |--------|---------------|
-| Individual | "Aha!" moments, flow states, creative breakthrough |
-| Team | "Clicking," shared understanding, collective intelligence |
-| Organization | Alignment, cultural coherence, institutional wisdom |
-| Society | Shared meaning, cultural renaissance, paradigm synthesis |
+| Individual | Flow states, creative breakthrough |
+| Team | Shared understanding, reduced coordination friction |
+| Organization | Alignment, cultural coherence, institutional learning |
+| System | Reduced entropy, stable equilibrium under drift |
 
 ---
 
-### G₂: Triadic Unification
+### G₂: Triadic Unification [SUPPORTED]
 
-> **All complex systems evolve through the fundamental triad: Chaos → Order → Synthesis. The Production-Validation (P,V) loop is the universal engine of this evolution.**
+> **Complex systems can be modeled as evolving through variation, selection, and integration. The Production-Validation (P,V) loop operationalizes this pattern.**
 
 ```
         CHAOS
@@ -71,7 +73,7 @@ Where:
 
 ### G₃: Semantic Thermodynamics
 
-> **Meaning is energy. Systems naturally evolve toward states that minimize semantic energy while preserving coherence. Understanding is compression. Intelligence is the optimization of the Coherence-to-Complexity Ratio (CCR).**
+> **Semantic energy provides a quantitative proxy for coherence. Systems naturally evolve toward states that minimize semantic energy while preserving coherence. Understanding correlates with compression. Intelligence can be modeled as the optimization of the Coherence-to-Complexity Ratio (CCR).** [HYPOTHESIZED]
 
 See `theory/hamiltonian.md` for the formal energy function.
 
@@ -81,13 +83,13 @@ See `theory/hamiltonian.md` for the formal energy function.
 x* = argmax_x CCR(x) = argmax_x Ψ(x)/K(x)
 ```
 
-Intelligence is the search for the **Minimum Viable Model (MVM)**—the peak of the CCR curve.
+Intelligence, in this model, is the search for the **Minimum Viable Model (MVM)**—the peak of the CCR curve. [HYPOTHESIZED]
 
 ---
 
-### G₄: Scale-Relativity of Ethics
+### G₄: Scale-Relative Evaluation
 
-> **Ethics is not absolute but scale-relative. "Good" is that which increases coherence at the scale of evaluation without destroying coherence at other scales. Wisdom is coherence improvement across multiple scales simultaneously.**
+> **In this framework, "good" at a given scale is defined as that which increases coherence at that scale without destroying coherence at other scales. This is a modeling choice, not an ethical theory.** [HYPOTHESIZED]
 
 **Goodness at scale s:**
 ```
@@ -130,10 +132,10 @@ An action is fully ethical only if it does not catastrophically reduce coherence
 ```
 
 The four axioms form a quaternion:
-- **G₁** provides the experiential anchor (phenomenology)
-- **G₂** provides the dynamic engine (P,V loops)
-- **G₃** provides the measurement framework (energy, coherence, CCR)
-- **G₄** provides the ethical compass (scale-relative evaluation)
+- **G₁** [HYPOTHESIZED] provides the phenomenological anchor (convergence effects)
+- **G₂** [SUPPORTED] provides the dynamic engine (P,V loops)
+- **G₃** [HYPOTHESIZED] provides the measurement framework (energy, coherence, CCR)
+- **G₄** [HYPOTHESIZED] provides the evaluation framework (scale-relative assessment)
 
 ---
 
