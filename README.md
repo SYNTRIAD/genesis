@@ -8,7 +8,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17618208-blue.svg)](https://zenodo.org/records/17618208)
-[![Papers](https://img.shields.io/badge/Papers-3%20published-green.svg)](#scientific-foundation)
+[![Pre-prints](https://img.shields.io/badge/Pre--prints-3%20on%20Zenodo-blue.svg)](#scientific-foundation)
 [![Companion](https://img.shields.io/badge/Companion-Digit--Dynamics-orange.svg)](https://github.com/SYNTRIAD/digit-dynamics)
 
 <br>
@@ -148,7 +148,7 @@ If not, it can be ignored without consequence.
 |-|----------|-------------|
 | 📖 | [`pattern/metapattern.md`](pattern/metapattern.md) | The canon — the invariant structure |
 | 🧮 | [`theory/hamiltonian.md`](theory/hamiltonian.md) | The math — semantic Hamiltonian |
-| 🔬 | [`evidence/publications.md`](evidence/publications.md) | The proof — three published papers |
+| 🔬 | [`evidence/publications.md`](evidence/publications.md) | The evidence — three published pre-prints |
 | 📐 | [`pattern/ups.md`](pattern/ups.md) | The template — copy and use |
 | 🔄 | [`pattern/vpp.md`](pattern/vpp.md) | The selection loop |
 | 💡 | [`examples/`](examples/) | Applied phenotypes |
