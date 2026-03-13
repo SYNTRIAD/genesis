@@ -104,7 +104,7 @@ V: Construct rigorous proof
 
 1. **Complete characterization** of the 1089-trick family
 2. **Novel discovery:** n_k = 10 × A001232(k-4) for k ≥ 5
-3. **Two publication-ready papers** with formal proofs
+3. **Two preprints** with formal proofs; OEIS [A393794](https://oeis.org/A393794) accepted
 
 **V++ (Validation Loop):**
 
@@ -118,7 +118,7 @@ V: Construct rigorous proof
 
 ## The Key Insight
 
-The P,V-loop is not just a process pattern—it's a **discovery engine**.
+The P,V-loop is not just a process pattern — it functions as a **structured discovery process**.
 
 When applied to open mathematical questions, it systematically:
 
@@ -126,7 +126,7 @@ When applied to open mathematical questions, it systematically:
 2. **Tests them rigorously** (V-phase) — contracting to validated knowledge
 3. **Iterates** — until convergence to publishable results
 
-The pattern doesn't guarantee discovery, but it **maximizes the probability** of discovery by ensuring:
+The pattern doesn't guarantee discovery, but it **supports** discovery by ensuring:
 - Systematic exploration (no gaps)
 - Rigorous validation (no false positives)
 - Cumulative progress (V++ preserves gains)

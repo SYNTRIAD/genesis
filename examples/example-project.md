@@ -1,8 +1,8 @@
 # Example — Project Kickoff Using the Metapattern
 
-This example demonstrates how the metapattern structures a project kickoff meeting.
+This hypothetical example demonstrates how the metapattern could structure a project kickoff meeting.
 
-The goal is not to prescribe a meeting format, but to show how collaborative decision-making becomes **structured, traceable, and convergent** using Φ₁–Φ₅, UPS, and V++.
+The goal is not to prescribe a meeting format, but to show how collaborative decision-making becomes **structured, traceable, and convergent** using Phi-1 through Phi-5, UPS, and V++.
 
 ---
 

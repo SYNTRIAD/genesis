@@ -1,6 +1,6 @@
 # Scientific Validation: Digit-Dynamics Discovery
 
-The SYNTRIAD pattern was applied to autonomous mathematical discovery, resulting in novel findings about digit-operation fixed points. This serves as empirical validation that the P,V-loop functions as a **discovery engine**.
+The SYNTRIAD pattern was applied to computational mathematical research, resulting in novel findings about digit-operation fixed points. This serves as an illustration that the P,V-loop can structure a discovery process.
 
 ---
 
@@ -16,7 +16,7 @@ The SYNTRIAD pattern was applied to autonomous mathematical discovery, resulting
 
 ## The Discovery Process
 
-### P,V-Loop as Discovery Engine
+### P,V-Loop Applied to Discovery
 
 ```
 P (Production):     Generate candidate mathematical structures
@@ -58,7 +58,7 @@ Where A001232 is the OEIS sequence of numbers k such that 9k equals k written ba
 
 ### 3. Attractor Spectra
 
-**Discovery:** Basin entropy analysis reveals universal patterns across digit operations, suggesting deep structural invariants in digit-operation dynamical systems.
+**Discovery:** Basin entropy analysis reveals universal patterns across digit operations, suggesting recurring structural patterns across digit operations.
 
 ---
 
@@ -80,7 +80,7 @@ The discovery demonstrates the five phases in action:
 
 All results were validated through:
 
-- **GPU-exhaustive search:** All integers up to 10^9 tested
+- **GPU-exhaustive search:** All integers up to 10^7 tested per pipeline
 - **Symbolic computation:** Algebraic proofs formalized
 - **OEIS verification:** Structural relationships confirmed against database
 - **LaTeX formalization:** Publication-ready mathematical notation
@@ -89,23 +89,25 @@ All results were validated through:
 
 ## Publications
 
-Two papers are in preparation:
+Two preprints (unpublished):
 
-1. **Paper A:** Fixed Points of Digit-Operation Pipelines
-2. **Paper B:** Attractor Spectra of Digit-Operation Pipelines
+1. **Paper A:** "Fixed Points of Digit-Operation Pipelines in Arbitrary Bases" — 9 theorems, 5 infinite families
+2. **Paper B:** "Attractor Spectra and e-Universality in Digit-Operation Dynamical Systems"
+
+OEIS sequence [A393794](https://oeis.org/A393794) accepted March 2026.
 
 ---
 
 ## Implications
 
-This case study demonstrates that SYNTRIAD is not merely a process framework—it is a **cognitive amplifier** that can:
+This case study demonstrates that the SYNTRIAD pattern can structure open-ended research into a convergent process:
 
 1. **Systematize exploration** of open mathematical questions
-2. **Accelerate discovery** through structured P,V iteration
+2. **Structure iteration** through alternating P,V phases
 3. **Ensure rigor** through validation gates at each phase
 4. **Produce publishable results** through the V++ output mechanism
 
-The pattern works not because it is clever, but because it mirrors the fundamental dynamics of how coherent knowledge emerges from chaos.
+The pattern works because it imposes variation-selection structure on exploratory work.
 
 ---
 
