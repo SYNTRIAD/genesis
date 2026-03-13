@@ -149,6 +149,7 @@ If not, it can be ignored without consequence.
 | 📖 | [`pattern/metapattern.md`](pattern/metapattern.md) | The canon — the invariant structure |
 | 🧮 | [`theory/hamiltonian.md`](theory/hamiltonian.md) | The math — semantic Hamiltonian |
 | 🔬 | [`evidence/publications.md`](evidence/publications.md) | The evidence — three published pre-prints |
+| 🧩 | [`evidence/portfolio-instances.md`](evidence/portfolio-instances.md) | Five domain instances — auditing, forensics, finance, health, dev |
 | 📐 | [`pattern/ups.md`](pattern/ups.md) | The template — copy and use |
 | 🔄 | [`pattern/vpp.md`](pattern/vpp.md) | The selection loop |
 | 💡 | [`examples/`](examples/) | Applied phenotypes |
