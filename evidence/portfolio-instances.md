@@ -82,36 +82,16 @@ Where G = gaps, I = inconsistencies, U = uncertainty, Ev = evidence. High energy
 
 ---
 
-## 5. Get-Shit-Done (GSD v1.0.0)
-
-**Domain:** AI-assisted software development
-
-**Transformation:** Project idea → working, verified, committed code
-
-**P,V structure:** Implicit but structurally parallel:
-- `/gsd:new-project` → research (4 parallel agents) → requirements → roadmap
-- `/gsd:plan-phase` → research → plan → plan-check loop until passing
-- `/gsd:execute-phase` → parallel execution in fresh contexts → verification against goals
-- `/gsd:verify-work` → user acceptance testing
-
-Each stage uses an orchestrator/agent pattern: thin orchestrator spawns specialized sub-agents (researchers, planners, executors, verifiers). Fresh 200k-token context per plan prevents quality degradation.
-
-**Concrete outputs:** Working code with atomic git commits, structured project documentation (PROJECT.md, REQUIREMENTS.md, ROADMAP.md, STATE.md), verification reports.
-
-**What makes it an instance:** The P,V alternation manifests as plan→execute→verify cycles with explicit quality gates. Published on npm (`get-shit-done-cc`), MIT-licensed.
-
----
-
 ## Cross-Instance Comparison
 
-| Aspect | Auditor | Network | Finance | Health | GSD |
+| Aspect | Auditor | Network | Finance | Health |
 |--------|---------|---------|---------|--------|-----|
-| **Input** | Document | PCAP | Requirements | Requirements | Idea |
-| **Output** | Verdict + report | Root cause + report | Templates + specs | Templates + specs | Working code |
-| **P-phases** | A0–A5 | P0–P5 | P0–P5 | P0–P4 | research→plan→execute |
-| **V-gates** | V1–V5 | V1–V5 | V1–V2 | V1–V2 | plan-check + verify + UAT |
-| **Energy function** | Explicit | Explicit | Explicit | Explicit | Implicit |
-| **Domain templates** | 8 profiles | 14 analyzers | 38 templates | 35 templates | 11 agent types |
+| **Input** | Document | PCAP | Requirements | Requirements |
+| **Output** | Verdict + report | Root cause + report | Templates + specs | Templates + specs |
+| **P-phases** | A0–A5 | P0–P5 | P0–P5 | P0–P4 |
+| **V-gates** | V1–V5 | V1–V5 | V1–V2 | V1–V2 |
+| **Energy function** | Explicit | Explicit | Explicit | Explicit | 
+| **Domain templates** | 8 profiles | 14 analyzers | 38 templates | 35 templates | 
 
 ---
 
