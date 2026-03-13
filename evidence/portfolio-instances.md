@@ -84,14 +84,14 @@ Where G = gaps, I = inconsistencies, U = uncertainty, Ev = evidence. High energy
 
 ## Cross-Instance Comparison
 
-| Aspect | Auditor | Network | Finance | Health |
-|--------|---------|---------|---------|--------|-----|
-| **Input** | Document | PCAP | Requirements | Requirements |
-| **Output** | Verdict + report | Root cause + report | Templates + specs | Templates + specs |
-| **P-phases** | A0–A5 | P0–P5 | P0–P5 | P0–P4 |
-| **V-gates** | V1–V5 | V1–V5 | V1–V2 | V1–V2 |
-| **Energy function** | Explicit | Explicit | Explicit | Explicit | 
-| **Domain templates** | 8 profiles | 14 analyzers | 38 templates | 35 templates | 
+| Aspect              | Auditor            | Network              | Finance            | Health             |
+|---------------------|--------------------|----------------------|--------------------|--------------------|
+| **Input**           | Document           | PCAP                 | Requirements       | Requirements       |
+| **Output**          | Verdict + report   | Root cause + report  | Templates + specs  | Templates + specs  |
+| **P-phases**        | A0–A5              | P0–P5                | P0–P5              | P0–P4              |
+| **V-gates**         | V1–V5              | V1–V5                | V1–V2              | V1–V2              |
+| **Energy function** | Explicit           | Explicit             | Explicit           | Explicit           |
+| **Domain templates**| 8 profiles         | 14 analyzers         | 38 templates       | 35 templates       |
 
 ---
 
@@ -105,7 +105,7 @@ Where G = gaps, I = inconsistencies, U = uncertainty, Ev = evidence. High energy
 **Does not demonstrate:**
 - That this pattern is the only viable structure for these domains
 - That it is optimal compared to alternatives (no controlled comparison exists)
-- That the energy function is necessary (GSD works without an explicit one)
+- That the energy function is strictly necessary (some instances may converge without an explicit one)
 
 The instances are evidence of applicability, not proof of universality.
 
